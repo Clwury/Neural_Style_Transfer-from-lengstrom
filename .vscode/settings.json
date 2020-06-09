@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "C:\\Users\\Clwury\\anaconda3\\envs\\tensorflow-gpu\\python.exe",
+    "python.dataScience.jupyterServerURI": "local",
+    "python.dataScience.textOutputLimit": 0,
+    "python.testing.pytestArgs": [
+        "."
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
